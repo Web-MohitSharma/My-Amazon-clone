@@ -1,2 +1,2 @@
-# My-Amazon-clone
+# Amazon-clone
 Only with HTML||CSS
